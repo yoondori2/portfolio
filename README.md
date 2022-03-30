@@ -6,6 +6,7 @@
 ## 📌 Intro
 <img src="https://user-images.githubusercontent.com/91296293/160841402-b393258f-e1c0-4a1f-b249-0367285529bb.jpg"
    height="200px" height="200px" >
+   </br>
 - 안녕하세요! 신입 개발자 김도윤입니다. 
 - 매일 한 발자국씩 전진하는 삶을 지향하고 그 때 행복을 느낍니다.
 - 매일 공부하고 기록하는 것이 중요하다고 생각하고 사람들과 함께 성장하고 싶어 
