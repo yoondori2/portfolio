@@ -29,4 +29,4 @@
 > 기술 스택: 
 > Java 8 / JSP / Mysql / Javascript
 >
-> [프로젝트 상세 설명] 참고 
+
